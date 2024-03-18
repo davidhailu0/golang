@@ -1,6 +1,4 @@
-// package main
-
-// import "fmt"
+package src
 
 // func main() {
 // 	var username string = "presidentSkroob"

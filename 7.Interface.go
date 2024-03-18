@@ -1,4 +1,4 @@
-package main
+package src
 
 // A type can implement many interfaces
 
