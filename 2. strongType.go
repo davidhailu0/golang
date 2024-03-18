@@ -1,4 +1,4 @@
-package src
+//package src
 
 // func main() {
 // 	var username string = "presidentSkroob"

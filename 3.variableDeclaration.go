@@ -1,4 +1,4 @@
-package src
+//package src
 
 // func main() {
 // 	const pi = 3.1425

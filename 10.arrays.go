@@ -1,4 +1,4 @@
-package src
+//package src
 
 // func main(){
 //  fruits := []string{"Apple","Pineapple","Papaya"}
@@ -7,11 +7,11 @@ package src
 // 	fmt.Println(ind+1," is ",el)
 //  }
 // }
-package main
+// package main
 
 import "fmt"
 
-func main() {
+// func main() {
 	// to declare array of 10 integers
 	// var intNum [10]int
 	// intNum[0] = 1

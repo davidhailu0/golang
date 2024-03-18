@@ -1,4 +1,4 @@
-package src
+// //package src
 
 import "fmt"
 
@@ -27,8 +27,9 @@ func main() {
 	//fmt.Println(*stringPtr)
 	// strings.ReplaceAll()
 
-	fmt.Println(getMessageText(Message{Recipient: "Hello",Text: "DBhdhvbvhf"}))
+	fmt.Println(getMessageText(Message{Recipient: "Hello", Text: "DBhdhvbvhf"}))
 }
+
 // type car struct {
 // 	color string
 // }
