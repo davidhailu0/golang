@@ -60,6 +60,7 @@ func main() {
 	}
 
 	// select is used to listen to multiple channels
+	//after one of the select statement is executed flow transfets out of the select
 	select {
 	case i, ok := <-chInts:
 		fmt.Println(i)
