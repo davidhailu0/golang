@@ -61,9 +61,9 @@ func main() {
 
 	// select is used to listen to multiple channels
 	select {
-	case i, ok := chInts:
+	case i, ok := <-chInts:
 		fmt.Println(i)
-	case str, ok := chString:
+	case str, ok := <-chString:
 		fmt.Println(str)
 	}
 	// to check if the channel is closed or empty
